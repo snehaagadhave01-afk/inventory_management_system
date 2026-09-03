@@ -1,0 +1,32 @@
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Firebase configuration
+google-services.json
+**/google-services.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Android signing / secrets
+*.jks
+*.keystore
+*.pem
+*.p12
+
+# Android
+android/.gradle/
+android/local.properties
+
+# IDE
+.idea/
+.vscode/
+
+# Generated files
+coverage/
