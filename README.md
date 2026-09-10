@@ -43,3 +43,10 @@ A Flutter-based inventory management application designed to manage products, su
 3. Run `flutter pub get`.
 4. Connect an Android device or start an emulator.
 5. Run `flutter run`.
+
+
+## Screenshots
+
+![Screenshot 1](Screenshot1.png)
+![Screenshot 2](Screenshot2.png)
+![Screenshot 3](Screenshot3.png)
